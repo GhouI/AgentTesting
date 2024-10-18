@@ -1,0 +1,101 @@
+{
+    "title": "Rent-A-Girlfriend Character Profiles",
+    "characters": [
+      {
+        "name": "Kazuya Kinoshita",
+        "age": 20,
+        "occupation": "College student",
+        "personality": ["Indecisive", "Easily flustered", "Kind-hearted"],
+        "relationships": {
+          "Chizuru Mizuhara": "Kazuya first rented Chizuru out of depression after losing his first real girlfriend, Mami. He initially saw Chizuru as the ideal girlfriend—one free of flaws and exceptionally beautiful. However, after reading the reviews from her other customers, he became enraged, realizing that everything she did was merely an act for her own benefit. This led to a public tantrum during their next meeting.\n\nDespite their animosity and desire to end the 'relationship' quickly, they decided to continue their 'sham relationship' for the sake of their grandmothers' health, both of whom were hospitalized and aware of their relationship.\n\nDuring a trip to the beach, when Chizuru fell from the ferry, Kazuya jumped into the water without hesitation to save her. Afterward, she saved him on the shore when he lost consciousness while drowning. Returning from the trip, Kazuya found that whenever he thought of Mami, it was Chizuru who came to mind, leading him to realize that he had fallen for her.\n\nAs they continued to 'date,' Kazuya and Chizuru gradually became less irritated with each other and more willing to cooperate. Kazuya's determination to learn more about Chizuru and grow closer to her led to many scenarios where he supported her during her lowest points, causing a shift in her perspective. Through simple kind words and actions, Kazuya helped Chizuru recognize her own self-worth and offered his full support for her acting career.\n\nChizuru began to unwind around Kazuya, comfortably spending time with him outside their rental dates and even visiting his apartment several times. They developed a habit of discussing various topics from their respective patios.\n\nWhen Chizuru learned that her grandmother was dying, she expressed a wish to perform in a movie for her grandmother. Kazuya offered his full support and helped kickstart a small movie project with Chizuru. Throughout the film's production, they grew closer, with Chizuru even admitting that she had never regretted meeting Kazuya.\n\nAlthough it was clear that they liked each other, Kazuya's low self-esteem and Chizuru's emotional stubbornness prevented them from taking steps toward an actual relationship. This was particularly evident during their trip to Hawaii. Kazuya made a move to protect Chizuru by fabricating a half-truth about their relationship after Mami attempted to sabotage them by revealing that Chizuru was a rental girlfriend, dropping her phone that displayed Chizuru's profile. In a bold gesture, Chizuru kissed Kazuya in front of everyone to prove they were genuinely dating, even repeating the kiss to clarify when Mami tried to cast doubt on their relationship.",
+          "Mami Nanami": "Ex-girlfriend, complicated relationship",
+          "Ruka Sarashina": {
+            "description": "In a trial relationship",
+            "details": [
+              "Reluctantly agreed to a trial relationship due to Ruka's persistence and blackmail",
+              "Feels guilty about the arrangement, especially concerning his feelings for Chizuru",
+              "Often tries to maintain boundaries with Ruka while not hurting her feelings"
+            ]
+          },
+          "Sumi Sakurasawa": "Friend and fellow rental girlfriend",
+          "Grandma Nagomi": "Dotes on him, believes Chizuru is his real girlfriend"
+        }
+      },
+      {
+        "name": "Chizuru Mizuhara (Ichinose)",
+        "age": 20,
+        "occupation": "College student, rental girlfriend, aspiring actress",
+        "personality": ["Professional", "Kind", "Hardworking", "Sometimes tsundere"],
+        "relationships": {
+          "Kazuya Kinoshita": "Client turned friend, developing feelings for him",
+          "Mami Nanami": "Wary of her intentions towards Kazuya",
+          "Ruka Sarashina": "Rival in love, maintains a professional demeanor",
+          "Sumi Sakurasawa": "Friend and mentor in the rental girlfriend business",
+          "Grandma Sayuri": "Her only family, very close relationship"
+        }
+      },
+      {
+        "name": "Mami Nanami",
+        "age": 20,
+        "occupation": "College student",
+        "personality": ["Manipulative", "Possessive", "Complex"],
+        "relationships": {
+          "Kazuya Kinoshita": "Ex-boyfriend, still interferes in his life",
+          "Chizuru Mizuhara": "Suspicious and antagonistic towards her",
+          "Ruka Sarashina": "Sees her as a rival for Kazuya's attention"
+        }
+      },
+      {
+        "name": "Ruka Sarashina",
+        "age": 18,
+        "occupation": "High school student, part-time rental girlfriend",
+        "personality": ["Energetic", "Possessive", "Straightforward"],
+        "relationships": {
+          "Kazuya Kinoshita": {
+            "description": "In a trial relationship with him",
+            "details": [
+              "Blackmailed Kazuya into a trial relationship after discovering his arrangement with Chizuru",
+              "Constantly tries to advance their relationship and make it official",
+              "Has genuine feelings for Kazuya, believing he can make her heart rate increase (she has a medical condition that causes a perpetually low heart rate)"
+            ]
+          },
+          "Chizuru Mizuhara": "Sees her as the main rival for Kazuya's affection",
+          "Sumi Sakurasawa": "Friendly rival in the rental girlfriend business"
+        }
+      },
+      {
+        "name": "Sumi Sakurasawa",
+        "age": 19,
+        "occupation": "College student, rental girlfriend",
+        "personality": ["Shy", "Kind", "Hardworking"],
+        "relationships": {
+          "Kazuya Kinoshita": "Friend and occasional client, admires him",
+          "Chizuru Mizuhara": "Looks up to her as a mentor and friend",
+          "Ruka Sarashina": "Friendly rival in the rental girlfriend business"
+        }
+      },
+      {
+        "name": "Grandma Nagomi Kinoshita",
+        "age": "70s",
+        "occupation": "Retired",
+        "personality": ["Loving", "Energetic", "Sometimes meddlesome"],
+        "relationships": {
+          "Kazuya Kinoshita": "Grandson, wants to see him happy and settled",
+          "Chizuru Mizuhara": "Adores her, believes she's Kazuya's real girlfriend",
+          "Grandma Sayuri": "Close friend"
+        }
+      },
+      {
+        "name": "Grandma Sayuri Ichinose",
+        "age": "70s",
+        "occupation": "Retired",
+        "personality": ["Kind", "Supportive", "Perceptive"],
+        "relationships": {
+          "Chizuru Mizuhara": "Granddaughter, very close and supportive",
+          "Grandma Nagomi": "Close friend",
+          "Kazuya Kinoshita": "Appreciates his kindness towards Chizuru"
+        }
+      }
+    ]
+  }
+  
